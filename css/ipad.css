@@ -1,0 +1,407 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .leagues a:hover {
+        color: white;
+    }
+    
+    .terms:hover .leagues {
+        display: block;
+        background-color: red;
+        border-radius: 30px;
+    }
+    /* terms */
+    
+    /* .hover:hover img {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    } */
+    
+    .kalitta {
+        width: 160px;
+        height: 90px;
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    .kalitta:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .dhla332 {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        /* width: 232px;
+        height: 130.5px; */
+        width: 160px;
+        height: 90px;
+    }
+    
+    .dhla332:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .klmasia {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        /* width: 240px;
+        height: 135px; */
+        width: 160px;
+        height: 90px;
+    }
+    
+    .klmasia:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .emiratestaxi {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .emiratestaxi:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .aerlingusa321 {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .aerlingusa321:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .brusselsfront {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .brusselsfront:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .aeromexico {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .aeromexico:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .airfranceside {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .airfranceside:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .anaaa {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .anaaa:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .aerlingusa333 {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .aerlingusa333:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .singaa350 {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .singaa350:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .koreandelta {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .koreandelta:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .klm777front {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .klm777front:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .virgina350 {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .virgina350:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .india777 {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .india777:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .emiratest4 {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .emiratest4:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .korean748 {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .korean748:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .british777 {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .british777:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .lufthansaa346 {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .lufthansaa346:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .emiratesto {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .emiratesto:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .koreana388 {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .koreana388:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .itaa332 {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .itaa332:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .singaa388 {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .singaa388:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+    
+    .etihad {
+        display: inline-block;
+        position: relative;
+        margin: 1px;
+        overflow: hidden;
+        border-radius: 30px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+        width: 160px;
+        height: 90px;
+    }
+    
+    .etihad:hover {
+        transform: scale(1.2) rotate(5deg);
+        transition: transform 0.5s ease;
+    }
+
+}
